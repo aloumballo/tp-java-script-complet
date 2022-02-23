@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.conteneur{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.conten{
+    display: flex;
+}
+.icon {
+    display: flex;
+    height: 8%;
+    width: 20%;
+    background-color: rgb(0, 255, 13);
+    border-radius: 15px 15px 0 0;
+} 
+
+#block{
+    display: flex;
+    flex-direction: column;
+    
+}
